@@ -1,0 +1,7 @@
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleAssignment\bin\Debug\RectangleAssignment.exe.config
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleAssignment\bin\Debug\RectangleAssignment.exe
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleAssignment\bin\Debug\RectangleAssignment.pdb
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleAssignment\obj\Debug\RectangleAssignment.csprojAssemblyReference.cache
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleAssignment\obj\Debug\RectangleAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleAssignment\obj\Debug\RectangleAssignment.exe
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleAssignment\obj\Debug\RectangleAssignment.pdb
