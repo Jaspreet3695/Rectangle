@@ -1,0 +1,12 @@
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleTests\bin\Debug\RectangleTests.dll
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleTests\bin\Debug\RectangleTests.pdb
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleTests\bin\Debug\nunit.framework.dll
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleTests\bin\Debug\RectangleAssignment.exe
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleTests\bin\Debug\RectangleAssignment.pdb
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleTests\bin\Debug\RectangleAssignment.exe.config
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleTests\bin\Debug\nunit.framework.xml
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleTests\obj\Debug\RectangleTests.csprojAssemblyReference.cache
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleTests\obj\Debug\RectangleTests.csproj.CoreCompileInputs.cache
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleTests\obj\Debug\RectangleTests.csproj.CopyComplete
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleTests\obj\Debug\RectangleTests.dll
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleTests\obj\Debug\RectangleTests.pdb

@@ -5,3 +5,6 @@ C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleAssignment\obj\Debug
 C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleAssignment\obj\Debug\RectangleAssignment.csproj.CoreCompileInputs.cache
 C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleAssignment\obj\Debug\RectangleAssignment.exe
 C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleAssignment\obj\Debug\RectangleAssignment.pdb
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleAssignment\bin\Debug\nunit.framework.dll
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleAssignment\bin\Debug\nunit.framework.xml
+C:\Users\Jaspreet\source\repos\RectangleAssignment\RectangleAssignment\obj\Debug\RectangleAssignment.csproj.CopyComplete
